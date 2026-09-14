@@ -1,4 +1,4 @@
-Hi, I'm Ralph Sayo.
+## Hi, I'm Ralph Sayo.
 
 I'm a full-stack web and mobile developer, currently a fourth-year BS Information Technology student building applications with a focus on real-world impact.
 
