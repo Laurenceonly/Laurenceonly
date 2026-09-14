@@ -16,7 +16,7 @@ Tech Stack
 - Design & Editing — Canva, Photoshop, CapCut, Premiere Pro
 
 Let's Connect
-- Portfolio: [ralphlaurence.dev](https://ralphlaurence.dev)
+- Portfolio: (https://ralph-portfolio-tau.vercel.app/)
 - Email: dreyast.laurent@gmail.com
 
 Open to dev collaborations, freelance editing work, or just a conversation about building things
