@@ -4,19 +4,21 @@ I'm a full-stack web and mobile developer, currently a fourth-year BS Informatio
 
 Currently Working On
 - GraphiScan — A Dysgraphia Detection and Management System using Convolutional Neural Networks (my capstone project)
-- Technical Staff — Providing technical support, social media management, and admin dashboard tasks for a cruise ship training academy, with an in-house app planned next
+- Technical Staff at Cruisechef International Academy — Providing technical support, social media management, and admin dashboard tasks for this cruise ship training academy, with an in-house app planned next
 
 Tech Stack
 - Languages — Java, C++, Python, JavaScript, TypeScript, PHP, Dart
-- Frontend — Vue, Nuxt, React, Bootstrap, Tailwind CSS
+- Frontend — Vue, Nuxt, React, Next.js, Bootstrap, Tailwind CSS
 - Backend — Node.js, Laravel, Flask
 - Mobile — Flutter, React Native, Firebase
 - AI/ML — TensorFlow, Keras, PyTorch, OpenCV
-- Databases & Tools — MySQL, PostgreSQL, Git, Docker, Vercel, Figma
-- Design & Editing — Canva, Photoshop, CapCut, Premiere Pro
+- Databases & Tools — MySQL, PostgreSQL, MongoDB, Git, Docker, Vercel, Figma, Postman
+
+Also Do
+- Freelance Visual Editing — Canva, Photoshop, CapCut, Premiere Pro
 
 Let's Connect
-- Portfolio: (https://ralph-portfolio-tau.vercel.app/)
+- Portfolio: [ralphlaurence.dev](https://ralph-portfolio-tau.vercel.app/)
 - Email: dreyast.laurent@gmail.com
 
 Open to dev collaborations, freelance editing work, or just a conversation about building things
