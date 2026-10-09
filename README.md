@@ -1,4 +1,8 @@
-## Hi, I'm Ralph Sayo.
+<div align="center">
+
+# Ralph Laurence Sayo
+
+</div>
 
 I'm a full-stack web and mobile developer and a fourth-year BS Information Technology student passionate about building practical, user-focused applications and exploring emerging technologies.
 
@@ -26,7 +30,7 @@ I'm a full-stack web and mobile developer and a fourth-year BS Information Techn
 
 ### Connect
 
-- **Portfolio:**  [ralph-portfolio-tau.vercel.app](https://ralph-portfolio-tau.vercel.app/)
+- **Portfolio:** [ralph-portfolio-tau.vercel.app](https://ralph-portfolio-tau.vercel.app/)
 - **Email:** [dreyast.laurent@gmail.com](mailto:dreyast.laurent@gmail.com)
 
 Open to development collaborations, freelance opportunities, and innovative projects.
