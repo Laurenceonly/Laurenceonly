@@ -1,27 +1,48 @@
 ## Hi, I'm Ralph Sayo.
 
-I'm a full-stack web and mobile developer, currently a fourth-year BS Information Technology student building applications with a focus on real-world impact.
+**Full-Stack Developer | BS Information Technology**
+
+I'm a fourth-year Information Technology student specializing in full-stack web and mobile development, with a growing interest in artificial intelligence and creative technologies.
+
+I enjoy exploring different technologies, solving practical problems, and turning ideas into functional applications. My approach combines continuous learning, thoughtful design, and AI-assisted development to build efficient, user-focused solutions.
 
 ### Featured Projects
-- GraphiScan — A Dysgraphia Detection and Management System using Convolutional Neural Networks (my capstone project)
-- Odyssey — Solar System Explorer — A browser-based space exploration prototype built with Three.js and Vite
 
-### Currently Working On
-- Technical Staff at Cruisechef International Academy — Providing technical support, social media management, and admin dashboard tasks for this cruise ship training academy, with an in-house app planned next
+**GraphiScan — Dysgraphia Detection & Management System**
 
-### Tech Stack
-- Languages — Java, C++, Python, JavaScript, TypeScript, PHP, Dart
-- Frontend — Vue, Nuxt, React, Next.js, Bootstrap, Tailwind CSS, Three.js, GSAP
-- Backend — Node.js, Laravel, Flask
-- Mobile — Flutter, React Native, Firebase
-- AI/ML — TensorFlow, Keras, PyTorch, OpenCV
-- Databases & Tools — MySQL, PostgreSQL, MongoDB, Supabase, Git, Docker, Vercel, Vite, Figma, Postman
+An AI-assisted handwriting screening and management system utilizing Convolutional Neural Networks (CNNs) to support the early identification of potential dysgraphia indicators.
 
-### Also Do
-- Freelance Visual Editing — Canva, Photoshop, CapCut, Premiere Pro
+*Capstone Project | Artificial Intelligence | Computer Vision*
 
-### Let's Connect
-- Portfolio: [ralph-portfolio-tau.vercel.app](https://ralph-portfolio-tau.vercel.app/)
-- Email: dreyast.laurent@gmail.com
+**Odyssey — Solar System Explorer**
 
-Open to dev collaborations, freelance editing work, or just a conversation about building things
+An interactive, browser-based solar system exploration experience developed using Three.js and Vite, combining 3D visualization with modern web technologies.
+
+*Web Development | Three.js | Interactive Visualization*
+
+### Professional Experience
+
+**Technical Staff — Cruisechef International Academy**
+
+Supporting technical operations, digital content management, and administrative dashboard workflows for a cruise ship training academy. Contributing to digital initiatives, including plans for an in-house application.
+
+### Technical Skills
+
+- **Programming Languages:** Java, C++, Python, JavaScript, TypeScript, PHP, Dart
+- **Frontend Development:** Vue, Nuxt, React, Next.js, Bootstrap, Tailwind CSS, Three.js, GSAP
+- **Backend Development:** Node.js, Laravel, Flask
+- **Mobile Development:** Flutter, React Native, Firebase
+- **AI & Machine Learning:** TensorFlow, Keras, PyTorch, OpenCV
+- **Databases:** MySQL, PostgreSQL, MongoDB, Supabase
+- **Development Tools:** Git, Docker, Vercel, Vite, Figma, Postman
+
+### Creative & Multimedia
+
+Alongside software development, I work with graphic design, video editing, and digital content production using Canva, Adobe Photoshop, CapCut, and Adobe Premiere Pro.
+
+### Connect
+
+- **Portfolio:** [ralph-portfolio-tau.vercel.app](https://ralph-portfolio-tau.vercel.app/)
+- **Email:** [dreyast.laurent@gmail.com](mailto:dreyast.laurent@gmail.com)
+
+Open to software development collaborations, freelance opportunities, and projects that bring meaningful ideas to life.
