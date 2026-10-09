@@ -27,6 +27,6 @@ I'm a full-stack web and mobile developer and a fourth-year BS Information Techn
 ### Connect
 
 - **Portfolio:**  [ralph-portfolio-tau.vercel.app](https://ralph-portfolio-tau.vercel.app/)
-- **Email:** Email: dreyast.laurent@gmail.com
+- **Email:** [dreyast.laurent@gmail.com](mailto:dreyast.laurent@gmail.com)
 
 Open to development collaborations, freelance opportunities, and innovative projects.
