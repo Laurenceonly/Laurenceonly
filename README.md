@@ -2,8 +2,11 @@
 
 I'm a full-stack web and mobile developer, currently a fourth-year BS Information Technology student building applications with a focus on real-world impact.
 
-Currently Working On
+Featured Projects
 - GraphiScan — A Dysgraphia Detection and Management System using Convolutional Neural Networks (my capstone project)
+- [Odyssey — Solar System Explorer](https://github.com/Laurenceonly/Odyssey-Space-Exploration-Game) — A browser-based space exploration prototype built with Three.js and Vite
+
+Currently Working On
 - Technical Staff at Cruisechef International Academy — Providing technical support, social media management, and admin dashboard tasks for this cruise ship training academy, with an in-house app planned next
 
 Tech Stack
