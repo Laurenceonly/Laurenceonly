@@ -1,4 +1,4 @@
-<h1 align="center">Ralph Sayo</h1>
+<h1 align="center">Ralph Laurence Sayo</h1>
 <h3 align="center">Full-Stack Web & Mobile Developer | BSIT Class of 2027</h3>
 
 ### Featured Projects
