@@ -1,24 +1,27 @@
-## Hi, I'm Ralph Sayo.
+# Hi, I'm Ralph Sayo 👋
 
-I'm a full-stack web and mobile developer, currently a fourth-year BS Information Technology student building applications with a focus on real-world impact.
+I'm a full stack developer and fourth-year BS Information Technology student in the Philippines. I build web applications from interface to data layer, with a focus on useful tools and clear user experiences.
 
-Currently Working On
-- GraphiScan — A Dysgraphia Detection and Management System using Convolutional Neural Networks (my capstone project)
-- Technical Staff at Cruisechef International Academy — Providing technical support, social media management, and admin dashboard tasks for this cruise ship training academy, with an in-house app planned next
+## Featured work
 
-Tech Stack
-- Languages — Java, C++, Python, JavaScript, TypeScript, PHP, Dart
-- Frontend — Vue, Nuxt, React, Next.js, Bootstrap, Tailwind CSS
-- Backend — Node.js, Laravel, Flask
-- Mobile — Flutter, React Native, Firebase
-- AI/ML — TensorFlow, Keras, PyTorch, OpenCV
-- Databases & Tools — MySQL, PostgreSQL, MongoDB, Git, Docker, Vercel, Figma, Postman
+- **[Iskol](https://github.com/Laurenceonly/Iskol)** — A student workspace for subjects, schedules, and notes. Built with Next.js, React, TypeScript, Tailwind CSS, and Supabase.
+- **[Campus IT Service Desk](https://github.com/Laurenceonly/IT-Help-Desk-Ticketing-System)** — A ticketing system for creating, finding, assigning, and resolving campus IT requests. Built with JavaScript and Node.js, with automated tests.
+- **[Odyssey: Solar System Explorer](https://github.com/Laurenceonly/Odyssey-Space-Exploration-Game)** — A browser-based, first-person space exploration prototype with discovery and exploration modes. Built with Three.js and Vite.
+- **[Developer portfolio](https://ralph-portfolio-tau.vercel.app/)** — My personal site, built with Nuxt, Vue, and GSAP. [Source code](https://github.com/Laurenceonly/ralph-sayo).
+- **GraphiScan** — My capstone project: a dysgraphia detection and management system using Python, Flask, TensorFlow/Keras, OpenCV, and MySQL.
 
-Also Do
-- Freelance Visual Editing — Canva, Photoshop, CapCut, Premiere Pro
+## Technologies
 
-Let's Connect
-- Portfolio: [ralphlaurence.dev](https://ralph-portfolio-tau.vercel.app/)
-- Email: dreyast.laurent@gmail.com
+**Languages:** JavaScript, TypeScript, Python  
+**Frontend:** React, Next.js, Vue, Nuxt, HTML, CSS, Tailwind CSS  
+**Backend and data:** Node.js, Python, Flask, Supabase, MySQL  
+**Machine learning:** TensorFlow/Keras, OpenCV  
+**Creative web:** Three.js, GSAP, Vite  
+**Tools:** Git, Vercel
 
-Open to dev collaborations, freelance editing work, or just a conversation about building things
+## Connect
+
+- [Portfolio](https://ralph-portfolio-tau.vercel.app/)
+- [Email](mailto:dreyast.laurent@gmail.com)
+
+I'm open to full stack development opportunities and collaborations.
