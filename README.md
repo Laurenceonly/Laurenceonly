@@ -1,8 +1,6 @@
 <h1 align="center">Ralph Sayo</h1>
 <h3 align="center">Full-Stack Web & Mobile Developer | BSIT | Class of 2027</h3>
 
-I'm a fourth-year BS Information Technology student passionate about building practical, user-focused applications and exploring emerging technologies.
-
 ### Featured Projects
 
 - **GraphiScan** — An AI-assisted dysgraphia screening and management system using Convolutional Neural Networks. (My capstone project)
