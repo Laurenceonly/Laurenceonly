@@ -19,8 +19,6 @@
 - **AI/ML:** TensorFlow, Keras, PyTorch, OpenCV
 - **Databases & Tools:** MySQL, PostgreSQL, MongoDB, Supabase, Git, Docker, Vercel, Vite, Figma, Postman
 
-### Creative Work
-
 ### Connect
 
 - **Portfolio:** [ralph-portfolio-tau.vercel.app](https://ralph-portfolio-tau.vercel.app/)
