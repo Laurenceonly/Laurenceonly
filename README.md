@@ -21,8 +21,6 @@
 
 ### Creative Work
 
-- **Visual Design & Video Editing:** Canva, Photoshop, CapCut, Premiere Pro
-
 ### Connect
 
 - **Portfolio:** [ralph-portfolio-tau.vercel.app](https://ralph-portfolio-tau.vercel.app/)
