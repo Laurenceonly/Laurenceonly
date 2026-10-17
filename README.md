@@ -5,6 +5,7 @@
 
 - **GraphiScan** — An AI-assisted dysgraphia screening and management system using Convolutional Neural Networks. (My capstone project)
 - **Odyssey: Solar System Explorer** — An interactive 3D space exploration application built with Three.js and Vite.
+   [🎮 Play My Game](https://odyssey-explorer-psi.vercel.app/)
 
 ### Currently Working On
 
